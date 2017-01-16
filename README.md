@@ -12,7 +12,7 @@
 EasyCapture is a simple Visual Basic software to capture photos through your webcam
 
 ## Screenshots:
-[TODO]
+![111](https://cloud.githubusercontent.com/assets/9204902/21974369/fbb6b1cc-dbce-11e6-88cd-696174a8575c.PNG)
 
 ## Installation:
 This software don't require any installation, just download the EasyCapture.exe from bin/Debug (or click [here](https://github.com/MikeMeliz/EasyCapture/raw/master/bin/Debug/EasyCapture.exe) ) and execute it.
